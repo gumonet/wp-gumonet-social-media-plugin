@@ -1,0 +1,33 @@
+.wp-gm-social-icon-elements-container{
+  position: fixed;
+  height: 98vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  .wp-gm-social-icon-elements-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    .wp-gm-social-icon-icon-link-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 55px;
+      height: 55px;
+      border-radius: 50%;
+      background: #2B8D71;
+      .wp-gm-social-icon-icon-content{
+        background-color: #fff;
+        width: 25px;
+        height: 25px;
+        display: block;
+      }
+      .wp-gm-social-icon-icon-facebook{
+        mask-image: url("../images/facebook.svg");
+        -webkit-mask-image: url("../images/facebook.svg");
+      }
+    }
+  }
+}
