@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @since 0.1.0
  * @var   string   The Plugin slug name.
  */
-define( 'WPB_GM_SI_PLUGIN_SLUG', 'wpb-grtpc' );
+define( 'WP_GM_SP_PLUGIN_SLUG', 'wpb-grtpc' );
 
 /**
  * Plugin path.
@@ -17,7 +17,7 @@ define( 'WPB_GM_SI_PLUGIN_SLUG', 'wpb-grtpc' );
  * @since 0.1.0
  * @var   string   The WP Bullet Lazy Load path.
  */
-define( 'WPB_GM_SI_PATH', plugin_dir_path( __DIR__ ) );
+define( 'WP_GM_SP_PATH', plugin_dir_path( __DIR__ ) );
 
 /**
  * Plugin version.
@@ -25,7 +25,7 @@ define( 'WPB_GM_SI_PATH', plugin_dir_path( __DIR__ ) );
  * @since 0.1.0
  * @var   string   The Plugin version.
  */
-define( 'WPB_GM_SI_VERSION', '0.1.0' );
+define( 'WP_GM_SP_VERSION', '0.1.0' );
 
 /**
  * Plugin URL.
@@ -34,6 +34,6 @@ define( 'WPB_GM_SI_VERSION', '0.1.0' );
  * @var   string   The Plugin URL.
  */
 define(
-	'WPB_GM_SI_URL',
+	'WP_GM_SP_URL',
 	plugin_dir_url( __DIR__ )
 );

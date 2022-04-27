@@ -10,7 +10,7 @@
  *
  * @SuppressWarnings(PHPMD)
  */
-function wpb_jap_mvp_view( $file, $extra_data = null ) {
+function wp_gm_sp_mvp_view( $file, $extra_data = null ) {
 	ob_start();
 	include $file;
 	return ob_get_clean();

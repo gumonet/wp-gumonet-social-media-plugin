@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Gumonet Social Icons
+ * Plugin Name: Gumonet Social Buttons
  * Plugin URI: http://gumonet.com
- * Description: Insert a list of social icons in your website
+ * Description: Insert a list of social buttons in your website
  * Version: 1.0.0
  * Author: Gumonet
  * Author URI:  http://gumonet.com/
@@ -20,8 +20,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Init the plugin
  **/
-function start_jay_audio_player_mvp() {
-	new WPB_JAP_MVP();
+function wp_gm_social_buttons_init() {
+	new WP_GM_SP();
 }
 
-add_action( 'init', 'start_jay_audio_player_mvp' );
+add_action( 'init', 'wp_gm_social_buttons_init' );

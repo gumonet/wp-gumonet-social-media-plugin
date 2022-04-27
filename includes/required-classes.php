@@ -4,4 +4,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 require_once 'constants.php';
 require_once 'helpers_functions.php';
-require_once 'wpb-jap-mvp.php';
+require_once 'wp-gm-sp.php';
