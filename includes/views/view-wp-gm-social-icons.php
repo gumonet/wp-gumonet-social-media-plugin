@@ -4,13 +4,13 @@
 			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-facebook"></span>
 		</a>
 		<a class="wp-gm-social-icon-icon-link-container" href="#">
-			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-facebook"></span>
+			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-instagram"></span>
 		</a>
 		<a class="wp-gm-social-icon-icon-link-container" href="#">
-			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-facebook"></span>
+			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-linkedin"></span>
 		</a>
 		<a class="wp-gm-social-icon-icon-link-container" href="#">
-			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-facebook"></span>
+			<span class="wp-gm-social-icon-icon-content wp-gm-social-icon-icon-youtube"></span>
 		</a>
 	</div>
 </div>
